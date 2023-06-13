@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozkan</h1>
 <h3 align="center">A passionate software developer...</h3>
-![sample_gif](https://cdn.dribbble.com/users/2283343/screenshots/11130974/media/b446401471cac5f325972ea6dcff28df.gif)
-<img align="right" alt="sample_gif" width="400" src="https://cdn.dribbble.com/users/2283343/screenshots/11130974/media/b446401471cac5f325972ea6dcff28df.gif" />
+![image_processing20200423-3672-1en3dek](https://github.com/ozknpkmz/ozknpkmz/assets/123933045/fc84ae3b-b2ac-48a0-83bc-c2bc8cfb27d8)
+<img align="right" alt="sample_gif" width="400px" src="https://cdn.dribbble.com/users/2283343/screenshots/11130974/media/b446401471cac5f325972ea6dcff28df.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozknpkmz&label=Profile%20views&color=0e75b6&style=flat" alt="ozknpkmz" /> </p>
 
