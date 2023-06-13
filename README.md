@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozkan</h1>
 <h3 align="center">A passionate software developer...</h3>
-<img align="right" alt="scenery" width="400" src="https://cdn.dribbble.com/users/2283343/screenshots/11130974/media/b446401471cac5f325972ea6dcff28df.gif"/>
+![sample_gif](https://cdn.dribbble.com/users/2283343/screenshots/11130974/media/b446401471cac5f325972ea6dcff28df.gif)
+<img align="right" alt="sample_gif" width="400" src="https://cdn.dribbble.com/users/2283343/screenshots/11130974/media/b446401471cac5f325972ea6dcff28df.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozknpkmz&label=Profile%20views&color=0e75b6&style=flat" alt="ozknpkmz" /> </p>
 
