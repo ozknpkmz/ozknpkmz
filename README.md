@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ozkan</h1>
 <h3 align="center">A passionate software developer...</h3>
-<img align="right" alt="sample_gif" width="400px" src="https://cdn.dribbble.com/users/2283343/screenshots/11130974/media/b446401471cac5f325972ea6dcff28df.gif" />
+<img align="right" alt="sample_gif" width="300px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/937c2320-2f0f-4df3-aefb-d494a5240e4d/dca084r-c7e9accb-75df-440b-bad0-ce9561c6d430.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzN2MyMzIwLTJmMGYtNGRmMy1hZWZiLWQ0OTRhNTI0MGU0ZFwvZGNhMDg0ci1jN2U5YWNjYi03NWRmLTQ0MGItYmFkMC1jZTk1NjFjNmQ0MzAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._sKFXzUZtGV2oXPX2-7TjoJedibZNf-_6-xdza2IIjg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozknpkmz&label=Profile%20views&color=0e75b6&style=flat" alt="ozknpkmz" /> </p>
 
